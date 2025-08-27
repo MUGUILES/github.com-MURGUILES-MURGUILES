@@ -1,70 +1,30 @@
-# github.com-MURGUILES
-# 👋 Olá, eu sou o @Murilo Natã
+<h1 align="center">Oi 👋, sou Murilo Natã</h1>
+<h3 align="center">Analista de Preços e Dados | Python • SQL • Excel • Power BI</h3>
 
-Analista de Preços e Dados com foco em **Python, SQL, Excel e Power BI**, aplicando análise e automação para resolver problemas do agronegócio.
+- 📫Você pode me encontrar no e-mail **Murguiles@gmail.com**
 
----
+- 📄 Veja meu perfil profissional no [LinkedIn] [www.linkedin.com/in/murilonatasantos](www.linkedin.com/in/murilonatasantos)
 
-## 🚀 Sobre mim
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/murilonatasantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/murilonatasantos" height="30" width="40" /></a>
+<a href="https://fb.com/murilo nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murilo nathan" height="30" width="40" /></a>
+<a href="https://instagram.com/murilo_nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murilo_nathan" height="30" width="40" /></a>
+</p>
 
-* 🎯 Especialidade: formação de preços, automação de relatórios e análise de dados para insumos agrícolas.
-* 🛠️ Ferramentas: Python (pandas, matplotlib, SQLAlchemy), SQL (T-SQL, SQLite), Excel avançado (PROCX, Tabelas Dinâmicas), Power BI.
-* 🌱 Estou sempre aprendendo e publicando projetos práticos no GitHub.
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" altura="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilonathandc&show_icons=true&locale=en&layout=compact" alt="murilonathandc" /></p>
 
-## 🧰 Principais habilidades
+<!---
+- 👋 Oi, eu sou a Data Marketing ou pode me chamar pelo @dmhubdigital
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-* **Python:** automação (win32com), ETL, análise com pandas, scripts reproducíveis.
-* **SQL:** modelagem, consultas complexas (CTE, window functions), otimização.
-* **Excel:** fórmulas avançadas, macros básicas, integração com Python.
-* **Power BI:** dashboards interativos, DAX, storytelling com dados.
-* **Outros:** Git, VS Code, Jupyter Notebooks, SQLite.
 
----
-
-## 📊 Projetos em destaque
-
-> (substitua os links pelos repositórios reais)
-
-* 🔹 **Dashboard de Preços — Power BI** — `analise-precos-powerbi`
-* 🔹 **Automação de Relatórios Excel com Python** — `automacao-excel-python`
-* 🔹 **Consultas e Modelagem SQL** — `sql-analises-vendas`
-* 🔹 **Pipeline ETL (SQLite + Python)** — `etl-precificacao`
-
----
-
-## 📝 Como rodar meus projetos
-
-Cada repositório inclui um `README.md` com instruções de instalação e execução. Em geral:
-
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-repo.git`
-2. Crie um ambiente virtual (venv/conda) e instale dependências: `pip install -r requirements.txt`
-3. Siga as instruções específicas no README do projeto.
-
----
-
-## 📁 Organização recomendada do GitHub
-
-* Fixe até 6 repositórios principais no topo do perfil (os mais representativos).
-* Use `notebooks` para análises exploratórias (`.ipynb`) e `src/` para código reutilizável.
-* Inclua `data/` com amostras ou scripts para baixar dados (não subir dados sensíveis).
-
----
-
-## 📫 Contato
-
-* LinkedIn: www.linkedin.com/in/murilonatasantos
-* Email: Murguiles@gmail.com
-
----
-
-## 🎯 Próximos passos
-
-* Atualizar links dos projetos acima.
-* Adicionar prints e `.pbix` (quando possível) nos repositórios de Power BI.
-* Incluir notebooks com explicações passo-a-passo para cada projeto.
-
----
-
-*Se quiser, eu já adapto este README inserindo links e descrições específicas dos seus projetos — me passe os links dos repositórios que quer destacar.*
+dmhubdigital/dmhubdigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
